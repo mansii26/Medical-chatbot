@@ -1,0 +1,10 @@
+#  Library
+
+langchain
+pypdf
+PyPDFLoader
+sentence-transformers
+streamlit
+CTransformers
+faiss_cpu
+faiss_gpu
